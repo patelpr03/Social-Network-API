@@ -3,7 +3,7 @@
 
 ## Description
 
- An API for a social network web application where users can create a friend list,share their thoughts, react to friends’ thoughts.
+ An API for a social network web application where users can create a friend list, share their thoughts, react to friends’ thoughts.
 
 ## User Story
 * AS A social media startup
@@ -22,13 +22,13 @@
 * WHEN I test API POST and DELETE routes in Insomnia Core
 * THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
-## Installati 
+## Installation 
 npm init
 </br>
 npm install
 
 ## App Screenshot
-![User Infomation](./public/images/user_screenshot.gif)
+![User](./public/images/user_screenshot.gif)
 </br>
 ![Thought](./public/images/thought_screenshot.gif)
 
