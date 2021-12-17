@@ -1,3 +1,6 @@
+
+# Social Network API
+
 ## Description
 
  An API for a social network web application where users can create a friend list,share their thoughts, react to friends’ thoughts.
